@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "crc32-stream": "^4.0.2"
+  }
+}
