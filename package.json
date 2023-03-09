@@ -1,5 +1,8 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "crc32-stream": "^4.0.2"
+  },
+  "dependencies": {
+    "mime": "^3.0.0"
   }
 }
